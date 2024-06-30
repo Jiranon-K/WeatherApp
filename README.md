@@ -14,3 +14,6 @@
   • Show "invalid city name" when the wrong city name is entered. 
 	
   ![image](https://github.com/Jiranon-K/WeatherApp/assets/132673259/e8f2378e-ea29-4c08-b9ca-9d730ca6eb93)
+
+
+---------------Made for education---------------
